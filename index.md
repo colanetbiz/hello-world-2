@@ -6,4 +6,4 @@ layout: default
 <p>This is going to be a site.</p>
 
 <br>
-{% include readme.mad %}
+{% include content2.md %}
