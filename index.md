@@ -1,5 +1,6 @@
 ---
-layout: default
+title: "Welcome to my blog"
+date: 2019-01-20
 ---
 
 <h1>This is the new index file for this repository and site.</h1>
